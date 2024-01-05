@@ -11,10 +11,5 @@
 Head -> main 이 나타내는 곳은 Git 이고, 
 origin/main 이 나타내는 곳은 GitHub이다.
 두곳의 위치가 다르다 --> PUSH OR PULL 이 되지않은 상태
-* 95d4aa8 (HEAD -> main, origin/main) Conflict Control
-*   a2e70b5 Merge branch 'main' of https://github.com/Storyos/gitproject
-|\
-| * 7613935 Update readme.md
-* | cde83cb SECOND COMMIT
-|/
-* 6065b18 First Commit
+
+[Data파일](MarkDown/Data.md)
